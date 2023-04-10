@@ -22,6 +22,10 @@ This the a smart device for home automation management. Is able to conenct with 
 
 <br>
 
+pcb electronics soon. Stay tuned!
+
+<br>
+
 ## Fabrication of a Glossy Black Acrylic wall mount
 
 In the folder CNC are the files for fabrication of a wall mounting housing made to fit a 4"TFT LCD display , and compatible to exiting wall mounted junction boxes. For instance the OEM B45V4 and B65V4 boxes. 
