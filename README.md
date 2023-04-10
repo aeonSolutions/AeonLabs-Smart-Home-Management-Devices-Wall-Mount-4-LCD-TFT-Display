@@ -1,7 +1,7 @@
 # Wall Mount 4" LCD TFT Display for Smart Home Management
 
 <p aling="center">
-<img src="" width=350>
+<img src="https://github.com/aeonSolutions/AeonLabs-Smart-Home-Management-Devices-Wall-Mount-4-LCD-TFT-Display/blob/main/Designs/CNC_wall_mount_acrylic.jpg" height=450>
 </p>
 
 <br />
