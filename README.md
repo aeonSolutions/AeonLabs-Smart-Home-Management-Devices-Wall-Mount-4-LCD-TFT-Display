@@ -1,7 +1,14 @@
 # Wall Mount 4" LCD TFT Display for Smart Home Management
 
-<p aling="center">
+<p align="center">
 <img src="https://github.com/aeonSolutions/AeonLabs-Smart-Home-Management-Devices-Wall-Mount-4-LCD-TFT-Display/blob/main/Designs/CNC_wall_mount_acrylic.jpg" height=450>
+</p>
+
+<p align="center">
+<img src="https://github.com/aeonSolutions/AeonLabs-Smart-Home-Management-Devices-Wall-Mount-4-LCD-TFT-Display/blob/main/Designs/acryclc_4_inch_lcd_wall_mounted_to_wall.jpg" height=350>
+<img src="https://github.com/aeonSolutions/AeonLabs-Smart-Home-Management-Devices-Wall-Mount-4-LCD-TFT-Display/blob/main/Designs/acrylic_wall_mount_screws_junction_box_b45v4.jpg" height=350>
+<img src="https://github.com/aeonSolutions/AeonLabs-Smart-Home-Management-Devices-Wall-Mount-4-LCD-TFT-Display/blob/main/Designs/acrylic_wall_mount_srew_old_light_switch.jpg" height=350>
+<img src="https://github.com/aeonSolutions/AeonLabs-Smart-Home-Management-Devices-Wall-Mount-4-LCD-TFT-Display/blob/main/Designs/acrylic_wall_mount_with_4_inch_lcd.jpg" height=350>
 </p>
 
 <br />
