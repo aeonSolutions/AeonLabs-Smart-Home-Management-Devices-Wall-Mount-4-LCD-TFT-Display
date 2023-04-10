@@ -4,6 +4,12 @@
    <img src="https://github.com/aeonSolutions/AeonLabs-Smart-Home-Management-Devices-Wall-Mount-4-LCD-TFT-Display/blob/main/Designs/CNC_wall_mount_acrylic.jpg" height=450>
 </p>
 
+<br>
+
+This the a smart device for home automation management. Is able to conenct with any internet of everyhing device in a home or office to manage autonomously a user requests and sensor data collected from each smart device it connects. 
+
+<br>
+
 <p align="center">
    <img src="https://github.com/aeonSolutions/AeonLabs-Smart-Home-Management-Devices-Wall-Mount-4-LCD-TFT-Display/blob/main/Designs/acryclc_4_inch_lcd_wall_mounted_to_wall.jpg" height=450>
    <img src="https://github.com/aeonSolutions/AeonLabs-Smart-Home-Management-Devices-Wall-Mount-4-LCD-TFT-Display/blob/main/Designs/acrylic_wall_mount_screws_junction_box_b45v4.jpg" height=450>
