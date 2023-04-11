@@ -36,6 +36,12 @@ In the folder CNC is the files for the fabrication of a wall-mounting housing ma
 
 <br>
 
+see the [wiki](https://github.com/aeonSolutions/AeonLabs-Smart-Home-Management-Devices-Wall-Mount-4-LCD-TFT-Display/wiki) for a more detailed fabrication prcedure.
+
+<br>
+
+## Instalation of a Glossy Black Acrylic wall mount
+
 <p align="center">
    <img src="https://github.com/aeonSolutions/AeonLabs-Smart-Home-Management-Devices-Wall-Mount-4-LCD-TFT-Display/blob/main/Designs/acryclc_4_inch_lcd_wall_mounted_to_wall.jpg" height=450>
    <img src="https://github.com/aeonSolutions/AeonLabs-Smart-Home-Management-Devices-Wall-Mount-4-LCD-TFT-Display/blob/main/Designs/acrylic_wall_mount_screws_junction_box_b45v4.jpg" height=450>
@@ -45,6 +51,10 @@ In the folder CNC is the files for the fabrication of a wall-mounting housing ma
    <img src="https://github.com/aeonSolutions/AeonLabs-Smart-Home-Management-Devices-Wall-Mount-4-LCD-TFT-Display/blob/main/Designs/acrylic_wall_mount_srew_old_light_switch.jpg" height=450>
    <img src="https://github.com/aeonSolutions/AeonLabs-Smart-Home-Management-Devices-Wall-Mount-4-LCD-TFT-Display/blob/main/Designs/acrylic_wall_mount_with_4_inch_lcd.jpg" height=450>
 </p>
+
+<br>
+
+see the [wiki](https://github.com/aeonSolutions/AeonLabs-Smart-Home-Management-Devices-Wall-Mount-4-LCD-TFT-Display/wiki) for a more detailed prcedure of instalation.
 
 <br />
 <br />
