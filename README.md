@@ -22,7 +22,7 @@ This the a smart device for home automation management. Is able to conenct with 
 
 <br>
 
-## PCB electronics for the Home Managemrnt Smart device
+## PCB electronics for the Home Management Smart device
 
 pcb electronics soon. Stay tuned!
 
